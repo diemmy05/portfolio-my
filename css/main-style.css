@@ -1,0 +1,296 @@
+.banner {
+  /* box banner me, can khai bao vi tri relative*/
+  position: relative;
+  z-index: 2;
+  width: 1920px;
+  height: 620px;
+}
+
+.banner-caption {
+  width: 1920px;
+  height: 620px;
+  position: absolute;
+  left: 10%;
+  top: 15%;
+  font-size: 1.5rem;
+  z-index: 2;
+  color: white;
+}.banner {
+  /* box banner me, can khai bao vi tri relative*/
+  position: relative;
+  z-index: 2;
+  width: 1920px;
+  height: 620px;
+}
+
+.banner-caption {
+  width: 1920px;
+  height: 620px;
+  position: absolute;
+  left: 10%;
+  top: 15%;
+  font-size: 1.5rem;
+  z-index: 2;
+  color: white;
+}.banner {
+  /* box banner me, can khai bao vi tri relative*/
+  position: relative;
+  z-index: 2;
+  width: 1920px;
+  height: 620px;
+}
+
+.banner-caption {
+  width: 1920px;
+  height: 620px;
+  position: absolute;
+  left: 10%;
+  top: 15%;
+  font-size: 1.5rem;
+  z-index: 2;
+  color: white;
+}.banner {
+  /* box banner me, can khai bao vi tri relative*/
+  position: relative;
+  z-index: 2;
+  width: 1920px;
+  height: 620px;
+}
+
+.banner-caption {
+  width: 1920px;
+  height: 620px;
+  position: absolute;
+  left: 10%;
+  top: 15%;
+  font-size: 1.5rem;
+  z-index: 2;
+  color: white;
+}.banner {
+  /* box banner me, can khai bao vi tri relative*/
+  position: relative;
+  z-index: 2;
+  width: 1920px;
+  height: 620px;
+}
+
+.banner-caption {
+  width: 1920px;
+  height: 620px;
+  position: absolute;
+  left: 10%;
+  top: 15%;
+  font-size: 1.5rem;
+  z-index: 2;
+  color: white;
+}.banner {
+  /* box banner me, can khai bao vi tri relative*/
+  position: relative;
+  z-index: 2;
+  width: 1920px;
+  height: 620px;
+}
+
+.banner-caption {
+  width: 1920px;
+  height: 620px;
+  position: absolute;
+  left: 10%;
+  top: 15%;
+  font-size: 1.5rem;
+  z-index: 2;
+  color: white;
+}.banner {
+  /* box banner me, can khai bao vi tri relative*/
+  position: relative;
+  z-index: 2;
+  width: 1920px;
+  height: 620px;
+}
+
+.banner-caption {
+  width: 1920px;
+  height: 620px;
+  position: absolute;
+  left: 10%;
+  top: 15%;
+  font-size: 1.5rem;
+  z-index: 2;
+  color: white;
+}.banner {
+  /* box banner me, can khai bao vi tri relative*/
+  position: relative;
+  z-index: 2;
+  width: 1920px;
+  height: 620px;
+}
+
+.banner-caption {
+  width: 1920px;
+  height: 620px;
+  position: absolute;
+  left: 10%;
+  top: 15%;
+  font-size: 1.5rem;
+  z-index: 2;
+  color: white;
+}.banner {
+  /* box banner me, can khai bao vi tri relative*/
+  position: relative;
+  z-index: 2;
+  width: 1920px;
+  height: 620px;
+}
+
+.banner-caption {
+  width: 1920px;
+  height: 620px;
+  position: absolute;
+  left: 10%;
+  top: 15%;
+  font-size: 1.5rem;
+  z-index: 2;
+  color: white;
+}@charset "utf-8";
+/* CSS Document */
+body
+{
+	font-family: "Roboto",Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 16px;
+	margin: 0;
+	color: #323334;
+	}
+a{ 
+	color:#323334;
+	text-decoration:none
+}
+a:hover
+{
+	color: #F2994A
+}
+nav
+{
+	border-top: 2px #323334 solid;
+	border-bottom: 2px #323334 solid
+}
+nav ul
+{
+	list-style: none;
+	padding: 0;
+	display: flex;
+	justify-content:space-around
+}
+nav ul li a{
+	padding: 10px 15px;
+display: block;
+	transition: all 1s;
+	border-bottom: #fff
+
+
+}
+
+nav ul li a:hover{
+	color: #000;
+	border-bottom: 2px solid #F2994A;
+/*background-color:#F2994A;*/
+
+}
+.banner{/* box banner me, can khai bao vi tri relative*/
+	position: relative
+}
+.banner-caption
+{
+	width: 40%;
+	height: 70%;
+	position: absolute;
+	left:50%; top:15%;
+	font-size: 1.5rem
+}
+nav ul li{position: relative}
+nav ul li ul
+{
+	position: absolute;
+	left: o;
+	top: 500%;
+	flex-direction: column;
+	background: #fff;
+	width: 230px;
+	visibility: hidden;
+	box-shadow: 0 0 5px #666;
+	visibility: hidden;
+	transition: all 1s;
+	z-index: 99999
+}
+nav ul li:hover ul
+{
+	top: 100%;
+	visibility: visible
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.chatbox
+{ 
+	width: 300px; height: 200px;
+	background: tomato;
+	position: fixed;
+	right: -250px; 
+	bottom: 0;
+	z-index: 2;
+	transition: all 1s
+}	
+.chatbox:hover{
+	right: 0;
+	background: blue
+}
+.overdark
+{
+	width: 100%;
+	height: 100%;
+	background: rgba(0,0,0,0.5);
+	position: fixed;
+	left: 0;
+	top: 0;
+	z-index: 1
+}
+
+.ads-box
+{
+	width: 50%;
+	height: 80%; 
+	background: white;
+	position: fixed;
+	left: 25%;
+	top: 10%;
+	z-index: 2;
+}
+.btn-dong
+{
+	
+	padding: 5px 10px;
+	border: 2px solid tomato;
+	text-align: right;
+	
+}
+*/
+
+
+
+
+
